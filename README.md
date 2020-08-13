@@ -17,3 +17,5 @@
    [Live Demo](https://jhmyung6225.pythonanywhere.com/)
 
     
+## Preview
+![todo app](./todofam.gif)
